@@ -42,12 +42,12 @@
         };
 
         hankakuzenkaku {
-            bindings = <&kp LANG1>;
+            bindings = <&kp LA(LS(GRAVE))>;
             key-positions = <12 12 11>;
         };
 
         hankakuzenkaku2 {
-            bindings = <&kp LANGUAGE_1>;
+            bindings = <&kp LA(LS(GRAVE))>;
             key-positions = <19 18>;
         };
     };
