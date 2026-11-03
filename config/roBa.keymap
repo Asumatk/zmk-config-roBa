@@ -23,7 +23,7 @@
 
         hankakuzenkaku {
             bindings = <&kp LANG2>;
-            key-positions = <12 12 13>;
+            key-positions = <12 13>;
         };
 
         hankakuzenkaku2 {
